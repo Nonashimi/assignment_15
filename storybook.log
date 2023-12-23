@@ -1,0 +1,22 @@
+npm ERR! code ERESOLVE
+npm ERR! ERESOLVE unable to resolve dependency tree
+npm ERR! 
+npm ERR! While resolving: ass__15@0.1.0
+npm ERR! Found: vue@3.3.13
+npm ERR! node_modules/vue
+npm ERR!   vue@"^3.2.13" from the root project
+npm ERR! 
+npm ERR! Could not resolve dependency:
+npm ERR! peer vue@"^2.6.8" from @storybook/vue@7.6.6
+npm ERR! node_modules/@storybook/vue
+npm ERR!   dev @storybook/vue@"7.6.6" from the root project
+npm ERR! 
+npm ERR! Fix the upstream dependency conflict, or retry
+npm ERR! this command with --force or --legacy-peer-deps
+npm ERR! to accept an incorrect (and potentially broken) dependency resolution.
+npm ERR! 
+npm ERR! 
+npm ERR! For a full report see:
+npm ERR! C:\Users\Олжас\AppData\Local\npm-cache\_logs\2023-12-23T16_26_31_680Z-eresolve-report.txt
+
+npm ERR! A complete log of this run can be found in: C:\Users\Олжас\AppData\Local\npm-cache\_logs\2023-12-23T16_26_31_680Z-debug-0.log
