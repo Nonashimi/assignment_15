@@ -1,7 +1,7 @@
 <template>
-  <div class="">
+  <div class=",">
 <ChartsCircleVue data = "75"></ChartsCircleVue>
-    <ChartsBar :arr ="arr"></ChartsBar>
+    <ChartsBar :arr ="arr"></ChartsBar> 
     <ChartsLine></ChartsLine>
     <formGridSystem></formGridSystem>
     <formDatePicker></formDatePicker>
