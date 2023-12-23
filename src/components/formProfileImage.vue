@@ -9,7 +9,8 @@ export default{
     props:{
         src:{
             type:String,
-            default:""
+            default:"https://thicc-af.mywaifulist.moe/waifus/yuta-okkotsu-sorcery-fight/3DQkg87cFXIigaUzRunm7v3bLXIWTc9BLePplwFu.jpg?class=thumbnail" 
+
         },
         width:{
      type:String,
@@ -22,7 +23,7 @@ export default{
 
 <style scoped>
 .profile {
-    border-radius:50px;
+    border-radius:50%;
     
 }
 

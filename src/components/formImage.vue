@@ -10,7 +10,7 @@ export default{
     props:{
         src:{
             type:String,
-   default:""
+   default:"https://ichef.bbci.co.uk/images/ic/640x360/p06vcwwr.jpg"
         },
         width:{
             type:String,

@@ -17,7 +17,10 @@ export default{
             type:String,
             default:"16px"
         },
-        label:String
+        label:{
+            type:String,
+            default:"Olzhas"
+        }
     }
 }
 

@@ -7,7 +7,10 @@
 <script>
 export default{
     props:{
-        arr:Array,
+        arr:{
+            type:Array,
+            default: ()=>{50, 30, 70, 10, 100,1,12,40,20,50},
+        }
     },
     data(){
       return{

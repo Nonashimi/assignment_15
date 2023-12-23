@@ -9,7 +9,7 @@
     props: {
       data: {
         type: Number,
-        required: true,
+        default:35,
       },
       max: {
         type: Number,
